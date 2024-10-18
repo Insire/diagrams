@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0" version="24.8.0">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="4649" dy="2615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#999999" math="0" shadow="0">
+    <mxGraphModel dx="4649" dy="2615" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,25 +21,25 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wTMIAIhLb1rDDaJ3WAzP-106" value="&lt;div&gt;Avalonia&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;fontFamily=Verdana;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="wTMIAIhLb1rDDaJ3WAzP-106" value="&lt;div&gt;Avalonia&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=none;fontColor=#ffffff;fontFamily=Verdana;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-160" y="810" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wTMIAIhLb1rDDaJ3WAzP-107" value="WPF" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;fontFamily=Verdana;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="wTMIAIhLb1rDDaJ3WAzP-107" value="WPF" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=none;fontColor=#ffffff;fontFamily=Verdana;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1040" y="810" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wTMIAIhLb1rDDaJ3WAzP-108" value="Winforms" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;fontFamily=Verdana;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="wTMIAIhLb1rDDaJ3WAzP-108" value="Winforms" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=none;fontColor=#ffffff;fontFamily=Verdana;fontStyle=1;align=center;verticalAlign=middle;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="750" y="810" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wTMIAIhLb1rDDaJ3WAzP-109" value="UWP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;fontFamily=Verdana;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="wTMIAIhLb1rDDaJ3WAzP-109" value="UWP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=none;fontColor=#ffffff;fontFamily=Verdana;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1640" y="810" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wTMIAIhLb1rDDaJ3WAzP-110" value="&lt;div&gt;WinUI 3&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;fontFamily=Verdana;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="wTMIAIhLb1rDDaJ3WAzP-110" value="&lt;div&gt;WinUI 3&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=none;fontColor=#ffffff;fontFamily=Verdana;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1350" y="810" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wTMIAIhLb1rDDaJ3WAzP-111" value="Uno Platform" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;fontFamily=Verdana;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="wTMIAIhLb1rDDaJ3WAzP-111" value="Uno Platform" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=none;fontColor=#ffffff;fontFamily=Verdana;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="150" y="810" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wTMIAIhLb1rDDaJ3WAzP-112" value="Xamarin" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;fontFamily=Verdana;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="wTMIAIhLb1rDDaJ3WAzP-112" value="Xamarin" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=none;fontColor=#ffffff;fontFamily=Verdana;fontStyle=1;align=center;verticalAlign=middle;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="440" y="810" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wTMIAIhLb1rDDaJ3WAzP-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FF9999;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;fillColor=#cdeb8b;" edge="1" parent="1" source="wTMIAIhLb1rDDaJ3WAzP-113" target="wTMIAIhLb1rDDaJ3WAzP-118">
@@ -53,7 +53,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wTMIAIhLb1rDDaJ3WAzP-113" value="&lt;div&gt;&lt;b&gt;Do you want to support&lt;br&gt;&amp;nbsp; Versions before Windows 10?&lt;/b&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="wTMIAIhLb1rDDaJ3WAzP-113" value="&lt;div&gt;&lt;b&gt;Do you want to&lt;br&gt; support Versions before&lt;br&gt;Windows 10?&lt;/b&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=none;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="1250" y="190" width="230" height="240" as="geometry" />
         </mxCell>
         <mxCell id="wTMIAIhLb1rDDaJ3WAzP-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FF9999;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;fillColor=#cdeb8b;" edge="1" parent="1" source="wTMIAIhLb1rDDaJ3WAzP-114" target="wTMIAIhLb1rDDaJ3WAzP-106">
@@ -67,10 +67,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wTMIAIhLb1rDDaJ3WAzP-114" value="Do you want to run your application&lt;br&gt; on mobile devices?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;fontStyle=1;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="wTMIAIhLb1rDDaJ3WAzP-114" value="Do you want to&lt;br&gt;run your application&lt;br&gt; on mobile devices?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=none;fontStyle=1;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="60" y="220" width="240" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="wTMIAIhLb1rDDaJ3WAzP-115" value="Is your application&lt;br&gt; only for Windows?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontStyle=1;fontColor=#000000;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="wTMIAIhLb1rDDaJ3WAzP-115" value="Is your application&lt;br&gt; only for Windows?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=none;fontStyle=1;fontColor=#000000;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="680" y="-40" width="240" height="240" as="geometry" />
         </mxCell>
         <mxCell id="wTMIAIhLb1rDDaJ3WAzP-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#cdeb8b;strokeColor=#1E9459;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="wTMIAIhLb1rDDaJ3WAzP-116" target="wTMIAIhLb1rDDaJ3WAzP-112">
@@ -84,7 +84,7 @@
         <mxCell id="wTMIAIhLb1rDDaJ3WAzP-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FF9999;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;fillColor=#cdeb8b;" edge="1" parent="1" source="wTMIAIhLb1rDDaJ3WAzP-116" target="wTMIAIhLb1rDDaJ3WAzP-111">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wTMIAIhLb1rDDaJ3WAzP-116" value="Do you like having to read &lt;br&gt; OS specific documentation" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;fontStyle=1;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="wTMIAIhLb1rDDaJ3WAzP-116" value="Do you like having to read &lt;br&gt; OS specific documentation" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=none;fontStyle=1;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="320" y="490" width="240" height="240" as="geometry" />
         </mxCell>
         <mxCell id="wTMIAIhLb1rDDaJ3WAzP-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#1E9459;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;fillColor=#cdeb8b;" edge="1" parent="1" source="wTMIAIhLb1rDDaJ3WAzP-118" target="wTMIAIhLb1rDDaJ3WAzP-107">
@@ -95,7 +95,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wTMIAIhLb1rDDaJ3WAzP-118" value="Do you&amp;nbsp; absolutely require &lt;br&gt;a WSIWYG Designer?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;fontStyle=1;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="wTMIAIhLb1rDDaJ3WAzP-118" value="Do you&amp;nbsp; absolutely require &lt;br&gt;a WSIWYG Designer?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=none;fontStyle=1;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="920" y="480" width="230" height="240" as="geometry" />
         </mxCell>
         <mxCell id="wTMIAIhLb1rDDaJ3WAzP-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.528;entryY=0.042;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FF9999;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;fillColor=#cdeb8b;" edge="1" parent="1" source="wTMIAIhLb1rDDaJ3WAzP-118" target="wTMIAIhLb1rDDaJ3WAzP-108">
@@ -112,7 +112,7 @@
         <mxCell id="wTMIAIhLb1rDDaJ3WAzP-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FF9999;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;fillColor=#cdeb8b;" edge="1" parent="1" source="wTMIAIhLb1rDDaJ3WAzP-122" target="wTMIAIhLb1rDDaJ3WAzP-110">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wTMIAIhLb1rDDaJ3WAzP-122" value="Do you want small &lt;br&gt;application sizes?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;fontStyle=1;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="wTMIAIhLb1rDDaJ3WAzP-122" value="Do you want small &lt;br&gt;application sizes?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=none;fontStyle=1;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="1520" y="490" width="230" height="240" as="geometry" />
         </mxCell>
       </root>
