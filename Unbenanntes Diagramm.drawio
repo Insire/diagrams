@@ -195,7 +195,7 @@
             <mxRectangle x="750" y="886" width="74" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wTMIAIhLb1rDDaJ3WAzP-166" value="XAML (with native compiled)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="wTMIAIhLb1rDDaJ3WAzP-165">
+        <mxCell id="wTMIAIhLb1rDDaJ3WAzP-166" value="XAML (OOB compiled bindings)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="wTMIAIhLb1rDDaJ3WAzP-165">
           <mxGeometry y="31" width="278" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wTMIAIhLb1rDDaJ3WAzP-167" value="-" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="wTMIAIhLb1rDDaJ3WAzP-165">
@@ -214,7 +214,7 @@
             <mxRectangle x="750" y="886" width="74" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wTMIAIhLb1rDDaJ3WAzP-174" value="XAML (with native compiled)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="wTMIAIhLb1rDDaJ3WAzP-173">
+        <mxCell id="wTMIAIhLb1rDDaJ3WAzP-174" value="XAML (OOB compiled bindings)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="wTMIAIhLb1rDDaJ3WAzP-173">
           <mxGeometry y="31" width="278" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wTMIAIhLb1rDDaJ3WAzP-175" value="easy to add new platform support, compared to other options" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="wTMIAIhLb1rDDaJ3WAzP-173">
@@ -242,10 +242,10 @@
             <mxRectangle x="750" y="886" width="74" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wTMIAIhLb1rDDaJ3WAzP-188" value="XAML (with compiled bindings)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="wTMIAIhLb1rDDaJ3WAzP-187">
+        <mxCell id="wTMIAIhLb1rDDaJ3WAzP-188" value="XAML (OOB compiled bindings)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="wTMIAIhLb1rDDaJ3WAzP-187">
           <mxGeometry y="31" width="278" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wTMIAIhLb1rDDaJ3WAzP-189" value="neat new binding features" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="wTMIAIhLb1rDDaJ3WAzP-187">
+        <mxCell id="wTMIAIhLb1rDDaJ3WAzP-189" value="modern binding features" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="wTMIAIhLb1rDDaJ3WAzP-187">
           <mxGeometry y="61" width="278" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wTMIAIhLb1rDDaJ3WAzP-190" value="Windows look and feel natively" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="wTMIAIhLb1rDDaJ3WAzP-187">
@@ -267,10 +267,10 @@
             <mxRectangle x="750" y="886" width="74" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wTMIAIhLb1rDDaJ3WAzP-196" value="XAML (with native compiled)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="wTMIAIhLb1rDDaJ3WAzP-195">
+        <mxCell id="wTMIAIhLb1rDDaJ3WAzP-196" value="XAML (OOB compiled bindings)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="wTMIAIhLb1rDDaJ3WAzP-195">
           <mxGeometry y="31" width="278" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wTMIAIhLb1rDDaJ3WAzP-197" value="-" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="wTMIAIhLb1rDDaJ3WAzP-195">
+        <mxCell id="wTMIAIhLb1rDDaJ3WAzP-197" value="sandboxed" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="wTMIAIhLb1rDDaJ3WAzP-195">
           <mxGeometry y="61" width="278" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wTMIAIhLb1rDDaJ3WAzP-198" value="-" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="wTMIAIhLb1rDDaJ3WAzP-195">
