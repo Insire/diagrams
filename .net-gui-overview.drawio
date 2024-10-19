@@ -64,7 +64,7 @@
         <mxCell id="wTMIAIhLb1rDDaJ3WAzP-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FF9999;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;fillColor=#cdeb8b;" parent="1" source="wTMIAIhLb1rDDaJ3WAzP-116" target="wTMIAIhLb1rDDaJ3WAzP-111" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wTMIAIhLb1rDDaJ3WAzP-116" value="Do you want native look and feel for your&lt;br&gt;apps?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#FFFFFF;strokeColor=none;fontStyle=1;fontFamily=Verdana;fontSize=22;spacingTop=15;" parent="1" vertex="1">
+        <mxCell id="wTMIAIhLb1rDDaJ3WAzP-116" value="Do you want&lt;br&gt;native look and&lt;br&gt;feel for your&lt;br&gt;apps?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#FFFFFF;strokeColor=none;fontStyle=1;fontFamily=Verdana;fontSize=22;spacingTop=15;" parent="1" vertex="1">
           <mxGeometry x="320" y="490" width="240" height="240" as="geometry" />
         </mxCell>
         <mxCell id="wTMIAIhLb1rDDaJ3WAzP-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#1E9459;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;fillColor=#cdeb8b;" parent="1" source="wTMIAIhLb1rDDaJ3WAzP-118" target="wTMIAIhLb1rDDaJ3WAzP-107" edge="1">
@@ -75,7 +75,7 @@
             <mxPoint x="40" y="-61" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wTMIAIhLb1rDDaJ3WAzP-118" value="&lt;div style=&quot;font-size: 22px;&quot;&gt;Do you&amp;nbsp; absolutely&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 22px;&quot;&gt;require &lt;/div&gt;a WYSIWYG Designer?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#FFFFFF;strokeColor=none;fontStyle=1;fontFamily=Verdana;fontSize=22;horizontal=1;spacing=2;spacingTop=-19;" parent="1" vertex="1">
+        <mxCell id="wTMIAIhLb1rDDaJ3WAzP-118" value="Do you&lt;br&gt;100% require&lt;br&gt;a WYSIWYG&lt;br&gt;Designer?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#FFFFFF;strokeColor=none;fontStyle=1;fontFamily=Verdana;fontSize=22;horizontal=1;spacing=2;spacingTop=-19;" parent="1" vertex="1">
           <mxGeometry x="931" y="490" width="230" height="240" as="geometry" />
         </mxCell>
         <mxCell id="wTMIAIhLb1rDDaJ3WAzP-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.528;entryY=0.042;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FF9999;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;fillColor=#cdeb8b;" parent="1" source="wTMIAIhLb1rDDaJ3WAzP-118" target="wTMIAIhLb1rDDaJ3WAzP-108" edge="1">
