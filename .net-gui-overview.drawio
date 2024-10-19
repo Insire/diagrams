@@ -16,25 +16,25 @@
             <mxPoint x="980" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wTMIAIhLb1rDDaJ3WAzP-106" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;Avalonia&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=none;fontColor=#FFFFFF;fontFamily=Verdana;fontStyle=1;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="wTMIAIhLb1rDDaJ3WAzP-106" value="&lt;div style=&quot;font-size: 28px;&quot;&gt;Avalonia&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=none;fontColor=#FFFFFF;fontFamily=Verdana;fontStyle=1;fontSize=28;" parent="1" vertex="1">
           <mxGeometry x="-160" y="810" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wTMIAIhLb1rDDaJ3WAzP-107" value="Winforms" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=none;fontColor=#ffffff;fontFamily=Verdana;fontStyle=1;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="wTMIAIhLb1rDDaJ3WAzP-107" value="Winforms" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=none;fontColor=#ffffff;fontFamily=Verdana;fontStyle=1;fontSize=28;" parent="1" vertex="1">
           <mxGeometry x="1040" y="810" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wTMIAIhLb1rDDaJ3WAzP-108" value="WPF" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=none;fontColor=#ffffff;fontFamily=Verdana;fontStyle=1;align=center;verticalAlign=middle;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="wTMIAIhLb1rDDaJ3WAzP-108" value="WPF" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=none;fontColor=#ffffff;fontFamily=Verdana;fontStyle=1;align=center;verticalAlign=middle;fontSize=28;" parent="1" vertex="1">
           <mxGeometry x="750" y="810" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wTMIAIhLb1rDDaJ3WAzP-109" value="UWP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=none;fontColor=#ffffff;fontFamily=Verdana;fontStyle=1;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="wTMIAIhLb1rDDaJ3WAzP-109" value="UWP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=none;fontColor=#ffffff;fontFamily=Verdana;fontStyle=1;fontSize=28;" parent="1" vertex="1">
           <mxGeometry x="1640" y="810" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wTMIAIhLb1rDDaJ3WAzP-110" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;WinUI 3&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=none;fontColor=#ffffff;fontFamily=Verdana;fontStyle=1;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="wTMIAIhLb1rDDaJ3WAzP-110" value="&lt;div style=&quot;font-size: 28px;&quot;&gt;WinUI 3&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=none;fontColor=#ffffff;fontFamily=Verdana;fontStyle=1;fontSize=28;" parent="1" vertex="1">
           <mxGeometry x="1350" y="810" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wTMIAIhLb1rDDaJ3WAzP-111" value="Uno Platform" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=none;fontColor=#ffffff;fontFamily=Verdana;fontStyle=1;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="wTMIAIhLb1rDDaJ3WAzP-111" value="Uno Platform" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=none;fontColor=#ffffff;fontFamily=Verdana;fontStyle=1;fontSize=28;" parent="1" vertex="1">
           <mxGeometry x="150" y="810" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wTMIAIhLb1rDDaJ3WAzP-112" value="MAUI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=none;fontColor=#ffffff;fontFamily=Verdana;fontStyle=1;align=center;verticalAlign=middle;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="wTMIAIhLb1rDDaJ3WAzP-112" value="MAUI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=none;fontColor=#ffffff;fontFamily=Verdana;fontStyle=1;align=center;verticalAlign=middle;fontSize=28;" parent="1" vertex="1">
           <mxGeometry x="440" y="810" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wTMIAIhLb1rDDaJ3WAzP-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FF3333;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;fillColor=#cdeb8b;" parent="1" source="wTMIAIhLb1rDDaJ3WAzP-113" target="wTMIAIhLb1rDDaJ3WAzP-118" edge="1">
