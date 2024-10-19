@@ -24,6 +24,7 @@ jobs:
         with:
           format: png
           transparent: true
+          remove-page-suffix: true
           output: drawio-assets
 
       - name: Get author and committer info from HEAD commit
